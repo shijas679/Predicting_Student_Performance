@@ -19,10 +19,13 @@ Python (Pandas, Matplotlib, Seaborn, Plotly)
 # 📈 Key Insights
 This project explores:
 
-Enrollment rates and gender distribution.
+- Education levels of fathers 👨‍🏫
+- Education levels of mothers 👩‍🏫
+- Insights focused on St. Mark region 🏫
 
-Literacy rates and education levels over time.
+# 🧠 Analysis Goals
+Understand the current state and historical trends in Egypt’s education sector.
 
-Regional disparities in educational access.
+Identify areas for improvement and regional imbalances.
 
-Budget allocation and government expenditure on education.
+Support policy-making decisions using visual insights.
